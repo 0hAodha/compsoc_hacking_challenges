@@ -1,5 +1,7 @@
 #!/bin/bash
-# Read the contents of the file flag.txt using only 2 letter commands
+# Read the contents of the file flag.txt using only 2-letter commands
+
+echo Read the contents of the file flag.txt using only 2-letter commands
 
 while true; do
     echo -n "$ "
